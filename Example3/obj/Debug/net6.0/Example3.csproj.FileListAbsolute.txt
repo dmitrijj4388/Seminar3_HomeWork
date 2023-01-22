@@ -1,0 +1,15 @@
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.csproj.AssemblyReference.cache
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.AssemblyInfoInputs.cache
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.AssemblyInfo.cs
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.csproj.CoreCompileInputs.cache
+E:\Обучение\Seminar3_HomeWork\Example3\bin\Debug\net6.0\Example3.exe
+E:\Обучение\Seminar3_HomeWork\Example3\bin\Debug\net6.0\Example3.deps.json
+E:\Обучение\Seminar3_HomeWork\Example3\bin\Debug\net6.0\Example3.runtimeconfig.json
+E:\Обучение\Seminar3_HomeWork\Example3\bin\Debug\net6.0\Example3.dll
+E:\Обучение\Seminar3_HomeWork\Example3\bin\Debug\net6.0\Example3.pdb
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.dll
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\refint\Example3.dll
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.pdb
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\Example3.genruntimeconfig.cache
+E:\Обучение\Seminar3_HomeWork\Example3\obj\Debug\net6.0\ref\Example3.dll
