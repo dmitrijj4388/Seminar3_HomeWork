@@ -5,14 +5,14 @@ Console.Clear();
 
 Console.Write("Введите пятизначное число: ");
 int number = int.Parse(Console.ReadLine()!);
-int a = number / 10000;
+double a = number / 10000;
 int b = number / 1000 % 10;
 int d = number / 10;
 int e = number % 10;
 if (a > 9) Console.WriteLine("Число не пятизначное.");
 else
 {
-    if (a == e || b == d) Console.Write("Число полиндром.");
+    if (a == e & b == d) Console.Write("Число полиндром.");
     else
     {
         Console.Write("Число не полиндром");
